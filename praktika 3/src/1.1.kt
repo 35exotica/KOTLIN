@@ -18,6 +18,6 @@ fun main() {
         println("$number3 самое большое число")
     }
     else {
-        println("чё")
+        println("ошибка")
     }
 }
