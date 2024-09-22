@@ -15,6 +15,6 @@ println("Введите первое число: ")
         print("$number2 нечётное")
     }
     else {
-        print("чо")
+        print("ошибка")
     }
 }
